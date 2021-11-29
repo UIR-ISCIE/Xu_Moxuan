@@ -1,0 +1,4 @@
+1.在cmd终端启动bert服务：
+bert-serving-start -model_dir D:\bert-base-chinese\ -max_seq_len 300 -num_worker=1
+
+2.直接运行train.py文件
